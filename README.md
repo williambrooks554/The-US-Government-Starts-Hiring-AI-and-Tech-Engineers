@@ -1,6 +1,4 @@
-<p style="text-align: justify;">The US government has announced a major initiative to hire AI engineers and technology professionals for federal roles this year.<br />
-<br />
-Source:&nbsp;<a href="https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/">https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/</a></p>
+<p style="text-align: justify;">The US government has announced a major initiative to hire AI engineers and technology professionals for federal roles this year.</p>
 
 <p style="text-align: justify;">This move reflects the growing importance of AI, cloud, and cybersecurity skills across various industries and government sectors. Professionals with verified skills and certifications are positioned to benefit the most as demand for tech expertise surges.</p>
 
@@ -12,7 +10,7 @@ Source:&nbsp;<a href="https://www.reuters.com/world/us/us-launches-campaign-hire
 
 <p style="text-align: justify;">The demand for AI &amp;&nbsp;tech talent is skyrocketing, and&nbsp;preparation is the key to success.</p>
 
-<p style="text-align: justify;">This is where <strong>P2PExams</strong> fits naturally as your exam preparation partner. Using realistic, exam-focused practice tests, candidates can:</p>
+<p style="text-align: justify;">This is where <a href="https://www.p2pexams.com/"><strong>P2PExams</strong></a> fits naturally as your exam preparation partner. Using realistic, exam-focused practice tests, candidates can:</p>
 
 <ul>
 	<li style="text-align: justify;">Strengthen conceptual understanding</li>
@@ -21,4 +19,5 @@ Source:&nbsp;<a href="https://www.reuters.com/world/us/us-launches-campaign-hire
 	<li style="text-align: justify;">Increase chance of first-attempt success</li>
 </ul>
 
-<p style="text-align: justify;">&nbsp;Now visit <a href="https://www.p2pexams.com/">P2PExams</a> and start preparing today!</p>
+<p style="text-align: justify;">&nbsp;Now visit P2PExams and start preparing today!<br />
+<strong>News Source:</strong> <a href="https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/">Reuters</a></p>
