@@ -25,4 +25,4 @@
 &nbsp;Now visit P2PExams and start preparing today!</p>
 
 <p><strong>Source:</strong> Reuters &ndash; <em>US launches campaign to hire engineers for AI, tech roles</em><br />
-<a disabled="true" href="https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025">https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025</a></p>
+<a href="https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/">https://www.reuters.com/world/us/us-launches-campaign-hire-ai-engineers-federal-roles-2025-12-15/</a></p>
